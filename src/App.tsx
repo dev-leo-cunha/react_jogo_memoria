@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import * as C from "./App.styles"
-import logoImage from './assets/devmemory_logo.png'
+import logoImage from './imgs/logomarca.png'
 import { Button } from "./components/Button"
 import { InfoItem } from "./components/InfoItem"
 import { GridItem } from "./components/GridItem"
